@@ -1,0 +1,16 @@
+{
+  "name": "katreos-roles",
+  "version": "0.0.1",
+  "description": "rol alma botu",
+  "main": "katreos.js",
+  "scripts": {
+    "test": "node katreos.js"
+  },
+  "author": "Katreos",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.7.1"
+  }
+}
